@@ -1,0 +1,31 @@
+{
+  "teamName": "Thunderbolts U14",
+  "events": [
+    {
+      "type": "practice",
+      "date": "2025-07-16",
+      "time": "5:30 PM",
+      "location": "Lincoln Park Field 2"
+    },
+    {
+      "type": "game",
+      "date": "2025-07-19",
+      "time": "10:00 AM",
+      "location": "Chester Bowl",
+      "opponent": "Lightning"
+    },
+    {
+      "type": "practice",
+      "date": "2025-07-21",
+      "time": "5:30 PM",
+      "location": "Lincoln Park Field 2"
+    },
+    {
+      "type": "event",
+      "date": "2025-07-22",
+      "time": "6:00 PM",
+      "location": "Pizza Luce",
+      "description": "Team dinner"
+    }
+  ]
+}
